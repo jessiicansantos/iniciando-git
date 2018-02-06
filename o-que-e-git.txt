@@ -1,0 +1,9 @@
+É um sistema de controle de versão;
+O controle de versão é um sistema que registra as mudanças feitas em um arquivo ou um conjunto de arquivos 
+ao longo do tempo, de forma que você possa recuperar versões específicas.
+
+Se quer manter todas as versões de uma imagem ou layout, usar um Sistema de Controle de Versão (Version Control System ou 
+VCS) é uma decisão sábia. Ele permite reverter arquivos e projetos inteiros para um estado anterior, 
+compara mudanças feitas ao decorrer do tempo, vê quem foi o último a modificar algo que pode estar causando problemas, 
+quem introduziu um bug e quando, e muito mais. Usar um VCS normalmente significa que caso tenha estragado ou 
+perdido algum arquivo, poderá facilmente reavê-los. Além disso, você pode controlar tudo sem maiores esforços.”
