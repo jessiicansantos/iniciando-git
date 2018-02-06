@@ -1,0 +1,17 @@
+ - - Comandos básicos
+git init - cria um repositorio git
+cd -
+pull - traz do repositorio pra minha maquina (contrario do git push)
+push - traz da minha maquina pro repositorio (contrario do git pull)
+
+___
+
+Passo 1 - Comando cd "path(caminho)-do-diretorio" navega pelos diretorios
+Passo 2 - git clone ((HTTPS)> link do repositorio do navegador)
+Passo 3 - git status (pra verificar se tem alterações na branch)
+Passo 4 - git add "nome-do-arquivo" ou .(se for add tudo do diretorio) (pra adicionar arquivos do diretorio)
+Passo 5 - git status (Desnecessario segundo o leo)
+Passo 6 - git commit -m "mensagem/comentario/observações sobre oq foi alterado"
+Passo 7 - git push origin "nome-da-branch" (subir o codigo do meu computador pra branch do repositorio)
+
+PESQUISAR BRANCH, ISSUES E AS PARADAS TODAS
