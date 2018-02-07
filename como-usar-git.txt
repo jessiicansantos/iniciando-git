@@ -3,6 +3,8 @@ git init - cria um repositorio git
 cd -
 pull - traz do repositorio pra minha maquina (contrario do git push)
 push - traz da minha maquina pro repositorio (contrario do git pull)
+merge (juntar as branches) - combinar o que foi feito em uma no que foi feito na outra (utilizar no fim, quando terminei 
+de usar a branch)
 
 ___
 
