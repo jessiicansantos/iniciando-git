@@ -1,10 +1,12 @@
  - - Comandos básicos
 git init - cria um repositorio git
-cd -
-pull - traz do repositorio pra minha maquina (contrario do git push)
-push - traz da minha maquina pro repositorio (contrario do git pull)
+git clone - clona um repositorio pro pc
+cd - navegar pelos diretórios
+pull (puxar) - traz do repositorio pra minha maquina (contrario do git push)
+push (empurrar) - traz da minha maquina pro repositorio (contrario do git pull)
 merge (juntar as branches) - combinar o que foi feito em uma no que foi feito na outra (utilizar no fim, quando terminei 
 de usar a branch)
+pwd (printing working directory/imprimir o diretorio de trabalho)- em que diretorio estou atualmente
 
 ___
 
@@ -16,4 +18,7 @@ Passo 5 - git status (Desnecessario segundo o leo)
 Passo 6 - git commit -m "mensagem/comentario/observações sobre oq foi alterado"
 Passo 7 - git push origin "nome-da-branch" (subir o codigo do meu computador pra branch do repositorio)
 
-PESQUISAR BRANCH, ISSUES E AS PARADAS TODAS
+-----
+
+link interessante explicando como utilizar git e github -
+https://lucianoratamero.github.io/blog/git-e-github-parte-1-o-que-sao-e-como-usar/
